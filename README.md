@@ -31,3 +31,6 @@ We welcome contributions to Budget Buddy! If you have any ideas, suggestions, or
 ## 📜 License
 
 Budget Buddy is licensed under the MIT License. See [LICENSE](https://github.com/yourusername/BudgetBuddy/blob/main/LICENSE) for more information.
+
+## Disclaimer
+This project is still in the early stages of development and updates are being rolled out regularly so keep checking back for new things!
