@@ -10,7 +10,7 @@ Budget Buddy is a desktop application created using Next.js that makes budget tr
 
 ### 💾 Installation
 
-To install Budget Buddy, simply head over to the [Releases](https://github.com/tylerlight071/Budget-Buddy/releases/tag/V1.0) section and download the latest installer. Once downloaded, run the installer and follow the on-screen instructions to get Budget Buddy up and running on your desktop.
+To install Budget Buddy, simply head over to the [Releases](https://github.com/tylerlight071/Budget-Buddy/releases/tag/V0.0.1) section and download the latest installer. Once downloaded, run the installer and follow the on-screen instructions to get Budget Buddy up and running on your desktop.
 
 
 ### 🌟 Features
