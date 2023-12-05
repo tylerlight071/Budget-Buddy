@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+.modal-container {
+  padding: 20px;
+  background-color: transparent;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 400px;
+  max-width: 100%;
+}
+
+.cl-formButtonPrimary {
+  font-size: 14px;
+  text-transform: none;
+  background-color: #f9dec9;
+  color: #6d6875;
+}
+
+.cl-formButtonPrimary:hover,
+.cl-formButtonPrimary:focus,
+.cl-formButtonPrimary:active {
+  background-color: #f9dec9;
+  color: #6d6875;
+}
+
+.cl-internal-b3fm6y {
+  background-color: #f9dec9;
+  color: #6d6875;
+}
+
+.react-select__option {
+  transition: background-color 0.3s ease;
+}
+
+.react-select__option-default:hover {
+  background: linear-gradient(to right, #f0dfd6, #c9a795);
+}
+
+.option-candy:hover {
+  background: linear-gradient(to right, #000000, #ffffff);
+}
